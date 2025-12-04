@@ -17,7 +17,7 @@
   .hero {
     position: relative;
     height: 330px;
-    background: url("image/hero.png") center/cover no-repeat;
+    background: url("hero2.jpg") center/cover no-repeat;
     display: flex;
     align-items: center;
   }
